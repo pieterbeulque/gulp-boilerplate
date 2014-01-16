@@ -1,0 +1,9 @@
+# OS specific
+.DS_Store
+
+# Generated
+.sass-cache
+node_modules
+
+# Don't sync build folders
+build

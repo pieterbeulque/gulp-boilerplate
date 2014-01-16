@@ -1,0 +1,15 @@
+{
+  "name": "your-gulp-project",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "~3.3.4",
+    "gulp-util": "~2.2.10",
+    "gulp-concat": "~2.1.7",
+    "gulp-rename": "~0.2.2",
+    "gulp-sass": "~0.4.0",
+    "gulp-compass": "~1.0.6",
+    "gulp-coffee": "~1.2.5",
+    "gulp-uglify": "~0.1.0",
+    "gulp-imagemin": "~0.1.4"
+  }
+}
